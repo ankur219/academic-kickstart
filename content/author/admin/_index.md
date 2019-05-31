@@ -91,7 +91,8 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 Hey there! 
-I am a junior undergraduate in the Electrical Engineering department(I wish I could change that. I hate it!) at the Indian Institute of Technology Kanpur. I am broadly interested in Computer Vision and Deep Learning, though I love football more. But my parents said I can't make a future out of it. That's how I am stuck over here. I have done some internships and a few projects in Computer Vision, but it's all given in my CV. So, let's skip it.
+I am an undergraduate in the Electrical Engineering department at the Indian Institute of Technology Kanpur. I am broadly interested in Computer Vision and Deep Learning, and particularly in Generative Networks and Few Shot Learning. I am currently working with Prof. Vinay Namboodiri on the task of Incremental Learning. You can go through my CV to look at my past internships and projects.
 
+Apart from my academic pursuits I love playing and watching football. I am a Manchester United fan and life is surely not easy for us. 
+PS: They should have signed Pochettino. 
 
-I am a Manchester United fan though. Life isn't easy for us guys. Plus the academics at my college is making it tougher. Too much depression XD. Naahh, I am happy on most of the days. Except, when my team loses or you know, there is an exam next day :p
