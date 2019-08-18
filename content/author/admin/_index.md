@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Junior Undergrad, EE"
+role = "Senior Undergrad, EE"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -25,8 +25,8 @@ email = ""
 interests = [
   "Computer Vision",
   "Deep Learning",
-  "Artificial Intelligence"
-]
+
+  ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -91,8 +91,7 @@ user_groups = ["Researchers", "Visitors"]
 +++
 
 Hey there! 
-I am an undergraduate in the Electrical Engineering department at the Indian Institute of Technology Kanpur. I am broadly interested in Computer Vision and Deep Learning, and particularly in Generative Networks and Few Shot Learning. I am currently working with Prof. Vinay Namboodiri on the task of Incremental Learning. You can go through my CV to look at my past internships and projects.
+I am an undergraduate in the Electrical Engineering department at the Indian Institute of Technology Kanpur. I am broadly interested in Computer Vision and Deep Learning, and particularly in Generative Networks and Few Shot Learning. I am currently working with Prof. Vinay Namboodiri in Delta Lab, IITK on the task of Incremental Learning. You can go through my CV to look at my past internships and projects.
 
-Apart from my academic pursuits I love playing and watching football. I am a Manchester United fan and life is surely not easy for us. 
-PS: They should have signed Pochettino. 
+Apart from my academic pursuits I love playing and watching football and I am also a Manchester United fan. 
 
